@@ -1,6 +1,12 @@
 # LUST AI Assistant
 
-Un assistant IA moderne, elegant et intelligent pour Telegram avec support multi-personnalites et conversation de qualite.
+🤖 Un assistant IA moderne, elegant et intelligent pour Telegram avec support multi-personnalites
+
+**Cree par:** @LustDeveloper  
+**Version:** 1.0.0  
+**Statut:** Actif ✅
+
+---
 
 ## 📋 Table des matieres
 
@@ -11,7 +17,7 @@ Un assistant IA moderne, elegant et intelligent pour Telegram avec support multi
 - [Utilisation](#utilisation)
 - [Commandes](#commandes)
 - [Technologies](#technologies)
-- [Developpeur](#developpeur)
+- [Credits](#credits)
 
 ## 🤖 Presentation
 
@@ -234,9 +240,10 @@ LUST-AI-ASSISTANT/
 └── README.md              # Ce fichier
 ```
 
-## 👨‍💻 Developpeur
+## 👨‍💻 Credits
 
-Developpe avec ❤️ par **lustdev927-666**
+**Developpe par:** @LustDeveloper  
+**Avec ❤️** pour la communaute
 
 - GitHub: https://github.com/lustdev927-666
 - Repository: https://github.com/lustdev927-666/LUST-AI-ASSISTANT
@@ -267,4 +274,5 @@ Si vous avez des questions ou rencontrez des problemes:
 
 **Version:** 1.0.0  
 **Statut:** Actif ✅  
-**Derniere mise a jour:** 2026-06-08
+**Cree par:** @LustDeveloper  
+**Derniere mise a jour:** 2026-06-09
